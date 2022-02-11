@@ -1,0 +1,2 @@
+# COVID-19-World-DataVisualization
+Omicron variant of COVID 19 continues to run rampant throughout the entire world. With just over two years into this pandemic, I'm interested to see some historical data on the speed and magnitude of which COVID has spread throughout the world, and in some certain major countries (e.g. Italy and China).   In this project, I use pandas, numpy, plotly and Matplotlib to investigate the past historical data of COVID in the world.
